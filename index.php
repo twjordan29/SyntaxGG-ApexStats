@@ -15,6 +15,8 @@ session_unset();
     <meta name="author" content="colorlib.com">
     <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" />
     <link href="css/main.css?v=1" rel="stylesheet" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8526857356487258"
+     crossorigin="anonymous"></script>
   </head>
   <body>
     <div class="s01">
