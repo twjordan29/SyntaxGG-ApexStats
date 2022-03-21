@@ -25,6 +25,12 @@
         <link href="css/styles.css?v=20" rel="stylesheet" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8526857356487258"
      crossorigin="anonymous"></script>
+        <script type="text/javascript">
+          window._mNHandle = window._mNHandle || {};
+          window._mNHandle.queue = window._mNHandle.queue || [];
+          medianet_versionId = "3121199";
+        </script>
+        <script src="https://contextual.media.net/dmedianet.js?cid=8CUNTUB6F" async="async"></script>
     </head>
     <body class="d-flex flex-column h-100">
         <main class="flex-shrink-0">
@@ -41,7 +47,7 @@
               <div class="row">
                 <div class="col-sm-4">
                     <div class="card shadow-lg" id="myScrollspy">
-                        <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?> Stats</b></center></div>
+                        <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?>'s Stats</b></center></div>
                         <div class="card-body">
                             <div class="list-group list-group-flush">
                               <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#"><img src="imgs/al.png" width="32" height="32" alt=""> <b>Overview</b></a>
@@ -55,7 +61,7 @@
                 </div>
                 <div id="overviewDiv" class="col-sm-8">
                     <div class="card shadow-lg">
-                        <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?> Overview</b></center></div>
+                        <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?>'s Overview</b></center></div>
                         <div class="card-body">
                             <table class="table">
                               <tbody>
@@ -94,7 +100,28 @@
                   <div class="card shadow-lg mt-4">
                     <div class="card-apexheader">Advertisement</div>
                     <div class="card-body">
-
+                      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8526857356487258"
+                           crossorigin="anonymous"></script>
+                      <!-- SyntaxGG Stats -->
+                      <ins class="adsbygoogle"
+                           style="display:block"
+                           data-ad-client="ca-pub-8526857356487258"
+                           data-ad-slot="7271637707"
+                           data-ad-format="auto"
+                           data-full-width-responsive="true"></ins>
+                      <script>
+                           (adsbygoogle = window.adsbygoogle || []).push({});
+                      </script>
+                      <div id="929637345">
+                          <script type="text/javascript">
+                              try {
+                                  window._mNHandle.queue.push(function (){
+                                      window._mNDetails.loadTag("929637345", "300x250", "929637345");
+                                  });
+                              }
+                              catch (error) {}
+                          </script>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -1462,7 +1489,7 @@
                 </div>
                 <div class="col-sm-8" id="RankedStats">
                   <div class="card shadow-lg">
-                      <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?> Ranked Stats</b></center></div>
+                      <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?>'s Ranked Stats</b></center></div>
                       <div class="card-body">
                         <div class="imgcontainer mt-3">
                             <img src="imgs/ranked/rankedscore.png" alt="pose" style="width:100%;">
@@ -1526,7 +1553,7 @@
                 </div>
                 <div class="col-sm-8" id="RankedArenasStats">
                   <div class="card shadow-lg">
-                      <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?> Ranked Arenas Stats</b></center></div>
+                      <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?>'s Ranked Arenas Stats</b></center></div>
                       <div class="card-body">
                         <div class="imgcontainer mt-3">
                             <img src="imgs/ranked/arenasscore.png" alt="pose" style="width:100%;">
@@ -1592,7 +1619,7 @@
                 </div>
                 <div class="col-sm-8" id="AllLegends">
                   <div class="card shadow-lg">
-                      <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?>'s' All Legends Stats</b></center></div>
+                      <div class="card-apexheader"><center><b><?php echo $dd['global']['name']; ?>'s All Legends Stats</b></center></div>
                       <div class="card-body">
                         <center><p><small><i>If values aren't showing, that means the person doesn't have trackers equipped!</i></small></p></center>
                           <img src="imgs/legends/bloodhound-ac.png" alt="pose" style="width:100%;">
